@@ -28,9 +28,9 @@ const router = createRouter({
       component: lazyLoad("Home_Login"),
     },
     {
-      path: "/Right_window",
-      name: "Right Window",
-      component: lazyLoad("Right_window"),
+      path: "/Test",
+      name: "Test",
+      component: lazyLoad("Test"),
     },
   ],
 });
