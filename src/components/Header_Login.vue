@@ -13,7 +13,7 @@
       <div
         class="flex flex-col sm:flex-row items-center gap-4 lg:gap-10 w-full sm:w-auto"
       >
-        <Button class="hidden sm:flex min-w-25"
+        <Button class="max-sm:hidden sm:flex min-w-25"
           ><svg
             xmlns="http://www.w3.org/2000/svg"
             width="32"

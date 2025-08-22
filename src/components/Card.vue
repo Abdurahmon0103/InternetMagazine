@@ -20,7 +20,7 @@
         <p class="px-4 py-2 text-sm sm:text-base">Oq qog'oz</p>
         <div class="flex justify-between items-center mt-auto">
           <Button
-            class="rounded-t-none rounded-bl-[24px] rounded-br-none w-1/2"
+            class="flex-1 rounded-t-none rounded-bl-[24px] rounded-br-none"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -36,7 +36,7 @@
             </svg>
           </Button>
           <Button
-            class="rounded-t-none rounded-br-[24px] rounded-bl-none w-1/2"
+            class="flex-1 rounded-t-none rounded-br-[24px] rounded-bl-none"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -100,7 +100,7 @@
         <p class="px-4 py-2 text-sm sm:text-base">Oq qog'oz</p>
         <div class="flex justify-between items-center mt-auto">
           <Button
-            class="rounded-t-none rounded-bl-[24px] rounded-br-none w-1/2"
+            class="flex-1 rounded-t-none rounded-bl-[24px] rounded-br-none"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -116,7 +116,7 @@
             </svg>
           </Button>
           <Button
-            class="rounded-t-none rounded-br-[24px] rounded-bl-none w-1/2"
+            class="flex-1 rounded-t-none rounded-br-[24px] rounded-bl-none"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -180,7 +180,7 @@
         <p class="px-4 py-2 text-sm sm:text-base">Oq qog'oz</p>
         <div class="flex justify-between items-center mt-auto">
           <Button
-            class="rounded-t-none rounded-bl-[24px] rounded-br-none w-1/2"
+            class="flex-1 rounded-t-none rounded-bl-[24px] rounded-br-none"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -196,7 +196,7 @@
             </svg>
           </Button>
           <Button
-            class="rounded-t-none rounded-br-[24px] rounded-bl-none w-1/2"
+            class="flex-1 rounded-t-none rounded-br-[24px] rounded-bl-none"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
